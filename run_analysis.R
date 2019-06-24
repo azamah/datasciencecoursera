@@ -22,10 +22,8 @@ subject_train <- read.table("UCI HAR Dataset/train/subject_train.txt")
 X_train <- read.table("UCI HAR Dataset/train/X_train.txt")
 y_train <- read.table("UCI HAR Dataset/train/y_train.txt")
 
-#Read labels
+#Read labels and features
 activityLbls <- read.table("UCI HAR Dataset/activity_labels.txt")[,2]
-
-#Read features
 features <- read.table("UCI HAR Dataset/features.txt")[,2]
 
 #Project
