@@ -1,4 +1,4 @@
-## Code Book
+## CodeBook
 This script will download and unzip the file in your working directory.
 
 ## 1. Read data test

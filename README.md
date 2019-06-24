@@ -9,4 +9,4 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 **The output of the R script is a tidy data set, [tidy.txt](tidy.txt).**
 
-Analysis in the [code book](CodeBook.md).
+Analysis in the [CodeBook](CodeBook.md).
